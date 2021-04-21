@@ -1,1 +1,1 @@
-# Password-Strenght
+# Password-Strength
